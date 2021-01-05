@@ -1,0 +1,67 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+      
+}
+p{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+}
+h2{
+    font-size: 40px;
+    color: #363958;
+}
+.orange{
+    color: tomato;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:3%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+.first-sec{
+    height: 400px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.button{
+    background-color: tomato;
+    padding: 10px 25px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;  
+}
+
+.third-sec{
+    background-color: #E5E5E5;
+    width: 100%; 
+    padding :50px;
+    margin: none;
+    
+    height: 600px;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}
+#working-project{
+    text-align: center;
+}
+.part-4 {
+    box-shadow: 10px 10px 20px;
+    border-radius: 10px;
+    height: 80%;
+    width: 27%;
+    float: left;
+    margin-left:3.5%;
+    padding-left: 2%;
+    background-color: white;
+}
+.part-4 img{
+    margin-top: 5px;
+    width: 100%;
+}
