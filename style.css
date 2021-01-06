@@ -19,6 +19,8 @@ h2{
     float: left;
     margin-left:3%;
     padding-left: 5%;
+    font-style: normal;
+    
 }
 .half-width img{
     width: 100%;
@@ -115,13 +117,20 @@ section{
     font-size: 35px;
     height: 10px;
 }
-.foot-img{
-    
-}
+
 .modify{
-    background-color: black;
+    background-color:rgba(129, 107, 192, 0.555);
     height: 200px;
     margin-top: 20px;
     width: 100%;
     border-radius: 10px;
+}
+.hello{
+    font-size: 55px;
+    color: #363958;
+    height: 10px;
+    padding-top: 20px;
+}
+.foot-img{
+    size: 10px;
 }
