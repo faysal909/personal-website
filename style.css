@@ -134,3 +134,17 @@ section{
 .foot-img{
     size: 10px;
 }
+.modi{
+   color: white;
+   text-align: center;
+   
+   font-size: 50px;
+   padding-top:50px;
+}
+.highlight02{
+    color:greenyellow;
+    
+}
+.highlight03{
+    color: rgb(54, 25, 158);
+}
