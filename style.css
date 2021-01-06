@@ -91,4 +91,37 @@ section{
     padding-top: 320px;
     padding-left: 74%;
 }
+.button3{
+    background-color: rgb(84, 36, 218);
+    padding: 10px 25px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px; 
+    float: right;
+}    
+.more{
+    margin-right: 20px;
+}
+.foot{
+    text-align: center;
+
+}
+#foot1{
+    color:rosybrown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.foot-p{
+    color: skyblue;
+    font-size: 35px;
+    height: 10px;
+}
+.foot-img{
     
+}
+.modify{
+    background-color: black;
+    height: 200px;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 10px;
+}
