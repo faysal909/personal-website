@@ -44,6 +44,9 @@ h2{
     
     height: 600px;
 }
+.third-sec p{
+    font-size: medium;
+}
 section{
     height: 600px;
     padding-bottom: 100px;
@@ -53,9 +56,8 @@ section{
     text-align: center;
 }
 .part-4  {
-    box-shadow: 10px 10px 20px;
     border-radius: 10px;
-    height: 80%;
+    height:500px;
     width: 27%;
     float: left;
     margin-left:3%;
@@ -63,6 +65,7 @@ section{
     background-color: white;
     
 }
+
 .part-4 img{
     margin-top: 5px;
     width: 100%;
@@ -74,12 +77,18 @@ section{
     background-size: 80% 30%;
     background-repeat: no-repeat;
     background-position: center;
-    
+    border: mediumvioletred solid ;
 }
 .butm-left{
     position: absolute;
-    height: 100%;
-    width: 100%;
-    text-align: center;
+    padding-top: 240px;
+    padding-left: 20%;
+    font-size: 50px;
+    color: #E5E5E5;
 }
-
+.butm-right{
+    position: absolute;
+    padding-top: 320px;
+    padding-left: 74%;
+}
+    
