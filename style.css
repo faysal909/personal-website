@@ -52,7 +52,7 @@ section{
 #working-project{
     text-align: center;
 }
-.part-4 {
+.part-4  {
     box-shadow: 10px 10px 20px;
     border-radius: 10px;
     height: 80%;
@@ -61,16 +61,25 @@ section{
     margin-left:3%;
     padding-left: 2%;
     background-color: white;
+    
 }
 .part-4 img{
     margin-top: 5px;
     width: 100%;
 }
-.buttom{
+  
+.last{
+    margin-top:100px ;
     background-image: url("images/pic03.png");
+    background-size: 80% 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
-.last
-{
-    height: 100px;
-    fay
+.butm-left{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    text-align: center;
 }
+
